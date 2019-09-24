@@ -1,3 +1,4 @@
 # CircuitPython 
-My CircuitPython assignments 
+LCD screen circuitpythom assignment 
+ 
 
