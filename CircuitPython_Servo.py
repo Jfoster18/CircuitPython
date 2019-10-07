@@ -14,12 +14,12 @@ angle = 6
 while True:
     if touch_A1.value: #when A1 is touched "a1 been touched" is printed on serial monitor
         print("A1 been touched")
-        angle += 1
+        angle += 1 # when the a1 wire is touched servo moves in one direction
 
 
     if touch_A5.value: #when A5 is touched "a5 been touched" is printed on the serial monitor
         print("A5 been touched")
-        angle -= 1
+        angle -= 1 #when the a5 wire is touched moves the oppisite direction as the a1 wire
     if angle > 180:
         angle = 180
     if angle < 0:
