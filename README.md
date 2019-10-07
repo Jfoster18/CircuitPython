@@ -1,4 +1,3 @@
 # CircuitPython 
-LCD screen circuitpython assignment 
-Photo Interrupter Assignment  
+All of my CircuitPython assignments  
 
