@@ -24,17 +24,17 @@ number = 0
 while True:
 
     lcd.set_cursor_pos(0,0)
-    lcd.print("Switch State: ")
-    lcd.print(str(up))
+    lcd.print("Switch State: ") #prints out "switch state on lcd screen
+    lcd.print(str(up)) #prints out the number that corresponds to the variable "up"
     lcd.set_cursor_pos(1,0)
-    lcd.print("presses:")
+    lcd.print("presses:") #prints out "presses:" below "switch state"
 
     if button_a.value:
-        number += up
+        number += up #if button a is pressed then it adds 1 to "up"
 
 
 
     if button_b.value:
-        up *= -1
+        up *= -1 #if button a is pressed then it changes what is next to switchstate, either 1 or -1
     lcd.print(str(number))
     lcd.print("     ")
