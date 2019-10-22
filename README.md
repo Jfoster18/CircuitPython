@@ -1,7 +1,7 @@
 # CircuitPython 
 
 	
-	# Hello CircuitPython 
+# Hello CircuitPython 
 
 This was my first circuitpython assignment, It was pretty simple, all I had to do was copy some code given to me from canvas.
 In this assignment I learned some of the very basics of CircuitPython. 
