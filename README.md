@@ -11,7 +11,7 @@ In this assignent there weren't any tricky or hard parts because it was pretty m
 In this assignemnt I had to make a servo move in either direction when a wire was touched. This was something that I had not done before so I had to use google to try and help me, but with some time I figured out how to complete it.
 In this assignment I learned how to use the "Capacitive Touch"
 During this assignment a tricky part that I had to solve was learning how to use captive touch, but with some help of google I figured it out fairley quickly. 
-![GitHub servoSS](media/servoSS.png) 
+![GitHub Octocat](media/octocat.jpg)
 # CircuitPython LCD 
 
 During this assignment I had to wire up an lcd screen and make it have a counter that told you how many times you pressed it in the up direction, also it had another button that switched it so that when you clicked the other button it made the number go down instead of up. 
