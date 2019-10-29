@@ -37,4 +37,4 @@ For this assignment I had to make the distance censor measure how far something 
 So I learned how to make the neopixel and the distance censor talk to eachother so it knew what color to fade to and at what distance. 
 Something that I would like to avoid is going so fast when I put files into my "lib" folder because I ended up putting the wrong file into it and I hadn't realized and it made my code not work so it slowed me down in completing this assignment. 
  
-![GitHub Servo](media/servoSS.PNG) 
+![GitHub Censor](media/censorSS.PNG) 
