@@ -17,7 +17,7 @@ During this assignment a tricky part that I had to solve was learning how to use
 During this assignment I had to wire up an lcd screen and make it have a counter that told you how many times you pressed it in the up direction, also it had another button that switched it so that when you clicked the other button it made the number go down instead of up. 
 This assignment gave me some trouble for multiple reasons, one my buttons were very inconsistent in the fact that it only recognized that I was clicking the button about 50% of the time. Also I didn't know what strings were and I learned how to use them to make this assignment work. 
 For the next time I do something similar to this I would like to avoid using the same type of buttons that I used because they were very very inconsitent and made the process of completing this assignment very hard. 
-
+![GitHub LCD](nedia/lcdSS.png) 
 # CircuitPython Photointerrupters 
 
 For this assignment I had to use a photointerrupter to detect how many times something interrupted it every 4 seconds. This was not all that difficult of an assignment to do, I just had to use some google to help me. 
