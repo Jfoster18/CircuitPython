@@ -52,4 +52,4 @@ This assignment was fairley simple, all I had to do was follow the directions on
 
 This assignment was very easy for me, there was a diagram for the wiring on canvas and the rest was fairley simple having done the Classes assignment already. I continued to learn how to use the VS code software and just continued to get more comftorable. I only had one problem and that was one that I could not fix, whenever I tried to save my code it said it did not recognize "Import Board" so I got Dr.Shields do so some fancy magic and he fixed it eventually. 
 
-![GitHub Famcy](media/fancySS.PNG)
+![GitHub Fancy](media/fancySS.PNG)
