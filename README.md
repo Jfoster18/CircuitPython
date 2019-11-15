@@ -54,4 +54,4 @@ This assignment was very easy for me, there was a diagram for the wiring on canv
 
 ![GitHub FancyLED](media/fancySS.PNG)
 
-<img src="fancey" width="75">
+<img src="fancySS.PNG" width="1000">
