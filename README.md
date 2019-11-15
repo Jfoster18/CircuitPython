@@ -38,3 +38,17 @@ So I learned how to make the neopixel and the distance censor talk to eachother 
 Something that I would like to avoid is going so fast when I put files into my "lib" folder because I ended up putting the wrong file into it and I hadn't realized and it made my code not work so it slowed me down in completing this assignment. 
  
 ![GitHub Censor](media/censorSS.PNG) 
+
+# CircuitPython Classes, Objects, and Modules 
+
+For this assignment I had to make a class that allowed 2 RGB Leds to go through a couple of colors. It wasn't all that challenging for me, the most challenging part was for getting the classes to link up with eachother so it worked, but after some time I figured it out. In this assignment I learned how to make a class.
+
+
+# CircuitPython Hello VS Code 
+
+This assignment was fairley simple, all I had to do was follow the directions on canvas. I learned how to use VS, the most challenging part of it was finding all the things that I had to find in order to set it up. 
+
+# CricuitPython Fancy LED 
+
+This assignment was very easy for me, there was a diagram for the wiring on canvas and the rest was fairley simple having done the Classes assignment already. I continued to learn how to use the VS code software and just continued to get more comftorable. I only had one problem and that was one that I could not fix, whenever I tried to save my code it said it did not recognize "Import Board" so I got Dr.Shields do so some fancy magic and he fixed it eventually. 
+
