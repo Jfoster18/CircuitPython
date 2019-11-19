@@ -43,6 +43,7 @@ Something that I would like to avoid is going so fast when I put files into my "
 
 For this assignment I had to make a class that allowed 2 RGB Leds to go through a couple of colors. It wasn't all that challenging for me, the most challenging part was for getting the classes to link up with eachother so it worked, but after some time I figured it out. In this assignment I learned how to make a class.
 
+![GitHub rgbled](media/rgbledSS.PNG)
 
 # CircuitPython Hello VS Code 
 
