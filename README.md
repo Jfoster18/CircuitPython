@@ -47,7 +47,7 @@ For this assignment I had to make a class that allowed 2 RGB Leds to go through 
 
 # CircuitPython Hello VS Code 
 
-This assignment was fairley simple, all I had to do was follow the directions on canvas. I learned how to use VS, the most challenging part of it was finding all the things that I had to find in order to set it up. 
+This assignment was fairley simple. All I had to do was follow the directions on canvas. I learned how to use VS, the most challenging part of it was finding all the things that I had to find in order to set it up. 
 
 # CricuitPython Fancy LED 
 
