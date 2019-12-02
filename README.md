@@ -41,7 +41,7 @@ Something that I would like to avoid is going so fast when I put files into my "
 
 ## CircuitPython Classes, Objects, and Modules 
 
-For this assignment I had to make a class that allowed 2 RGB Leds to go through a couple of colors. It wasn't all that challenging for me, the most challenging part was for getting the classes to link up with eachother so it worked, but after some time I figured it out. In this assignment I learned how to make a class.
+For this assignment I had to make a class that allowed 2 RGB LEDs to go through a couple of colors. It wasn't all that challenging for me, the most challenging part was for getting the classes to link up with eachother so the actual system would work, but after some time I figured it out. In this assignment I learned what a class was and how to make one and link them up with eachother. While I had some trouble in the beginning I have learned that it is really important to mkae sure that your classes are spelled correctly and match up with eachother all throughout your code.
 
 ![GitHub rgbled](media/rgbledSS.PNG)
 
@@ -51,6 +51,6 @@ This assignment was fairley simple. All I had to do was follow the directions on
 
 ## CricuitPython Fancy LED 
 
-This assignment was very easy for me, there was a diagram for the wiring on canvas and the rest was fairley simple having done the Classes assignment already. I continued to learn how to use the VS code software and just continued to get more comftorable. I only had one problem and that was one that I could not fix, whenever I tried to save my code it said it did not recognize "Import Board" so I got Dr.Shields do so some fancy magic and he fixed it eventually. 
+This assignment was very easy for me, there was a diagram for the wiring on canvas and the rest was fairley simple having already done the Classes assignment already. I continued to learn how to use the VS code software and just continued to get more comftorable. I only had one problem and that was one that I could not fix, whenever I tried to save my code it said it did not recognize "Import Board" so I got Dr.Shields do so some fancy magic and he fixed it eventually. 
 
 ![GitHub fancy](media/fancySS.PNG)
